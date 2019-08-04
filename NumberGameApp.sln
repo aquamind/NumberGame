@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGameApp", "NumberGameApp\NumberGameApp.csproj", "{8277A04B-EB34-4408-9E89-4651D1C96387}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGameAppTests", "NumberGameAppTests\NumberGameAppTests.csproj", "{1A9DED1D-B00B-4051-8350-091F8F06FE00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8277A04B-EB34-4408-9E89-4651D1C96387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8277A04B-EB34-4408-9E89-4651D1C96387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8277A04B-EB34-4408-9E89-4651D1C96387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8277A04B-EB34-4408-9E89-4651D1C96387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A9DED1D-B00B-4051-8350-091F8F06FE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9DED1D-B00B-4051-8350-091F8F06FE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9DED1D-B00B-4051-8350-091F8F06FE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9DED1D-B00B-4051-8350-091F8F06FE00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D0A75DE-DF58-44DA-80AC-870E5559F062}
+	EndGlobalSection
+EndGlobal
